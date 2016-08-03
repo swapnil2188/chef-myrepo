@@ -1,0 +1,7 @@
+[ctorepo]
+name=CTO OPS Releases
+baseurl=http://sds-repo-int.qdc.intuit.com:8081/nexus/content/repositories/CTO.OPS-releases/
+enabled=1
+failovermethod=priority
+gpgcheck=0
+sslverify=1
